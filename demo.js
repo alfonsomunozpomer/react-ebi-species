@@ -8,9 +8,9 @@ var ReactDOM = require('react-dom');
 
 //*------------------------------------------------------------------*
 
-var Icon = require('../src/SpeciesIcon.jsx');
-var mapping = require("../src/mapping.js");
-require("../src/ebi-visual-species.css");
+var Icon = require('./src/SpeciesIcon.jsx');
+var mapping = require("./src/mapping.js");
+require("./src/ebi-visual-species.css");
 
 //*------------------------------------------------------------------*
 

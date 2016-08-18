@@ -5,7 +5,7 @@ var CleanWebpackPlugin = require('clean-webpack-plugin');
 module.exports = {
     entry: {
         speciesIcon: './index.js',
-        demo: './html/demo.js',
+        demo: './demo.js',
         dependencies: ['react', 'react-dom']
     },
 
